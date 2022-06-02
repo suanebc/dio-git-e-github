@@ -1,0 +1,15 @@
+Sempre buscar ajuda na documentação : https://docs.github.com/pt/get-started/using-git/about-git
+                                https://comandosgit.github.io/
+
+Mais comandos úteis:
+
+Para buscar ajuda:
+git help {comando}
+git {comando} --help
+man git- {comando}
+
+remover arquivo:
+git rm -f {arquivo}
+
+empurra arquivos apos comitar:
+git push
