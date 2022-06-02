@@ -23,5 +23,5 @@ git add..
 para comitar:
 git commit nome-do-arquivo
 
-
+ ********************* ISSO É APENAS UM TESTE DE CONHECIMENTOS BÁSICOS ********************
 
