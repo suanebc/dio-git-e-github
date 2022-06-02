@@ -1,0 +1,27 @@
+O Git é um sistema open-source de controle de versão utilizado que permite criar um histório de alterações no código de um projeto.
+
+O Github é um serviço online de hospedagem de repositórios Git que permite manter todos os commits e ramos sincronizados entre os membros de um time de desenvolvimento.
+
+Git-comandos básicos:
+
+ver versão:
+git --version
+
+configurar assinatura
+git config --global user.name "Seu nome"
+git config --global user.email "seu-email@example.com"
+
+utilizar:
+git init
+
+ver estatus do repositorio:
+git status
+
+adicionar modficação de arquivo:
+git add..
+
+para comitar:
+git commit nome-do-arquivo
+
+
+
